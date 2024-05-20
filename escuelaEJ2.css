@@ -1,0 +1,15 @@
+#pre{
+    color:crimson;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+}
+
+body{
+    background-color:mediumaquamarine;
+}
+
+img{
+    width: 208;
+    height: 159;
+    border: solid black 10px;
+}

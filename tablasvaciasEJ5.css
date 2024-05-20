@@ -1,0 +1,20 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, td , th{
+    border: 5px solid black;
+}
+
+td,th {
+    padding: 16px;
+    height: 20px;
+    width: 200px;
+    background-color: aquamarine;
+}
+
+#minitd{
+    width: 50px;
+    height: 30px;
+}

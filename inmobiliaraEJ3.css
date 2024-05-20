@@ -1,0 +1,19 @@
+a:visited{
+    color:green;
+}
+
+a:link{
+    color: red;
+}
+
+img{
+    border: solid black;
+    width: 300px;
+    height: auto;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+body{
+    background-color: aquamarine;
+}
